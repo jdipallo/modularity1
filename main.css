@@ -1,5 +1,6 @@
 /* ADD YOUR STYLES HERE */
 
+/* For example 1, the data table */
 .dataTable {
     width: 100%;
 }
@@ -17,6 +18,7 @@
     font-weight: bold;
 }
 
+/* For example 2, the stats table */
 .statsTable {
     border-bottom: 1px solid gray;
     border-top: 1px solid gray;
@@ -41,6 +43,7 @@
     color: lightgrey;
 }
 
+/* For example 3, the bar chart */
 .barChartTable th {
     display: block;
     width: 90px;
@@ -59,6 +62,7 @@
 
 }
 
+/* for example 4, the lightbox floating example */
 .lightBoxGray {
     position: fixed;
     background: gray;
@@ -104,7 +108,7 @@
     left: 25%;
 }
 
-/* For Media Block Excercise */
+/* For Media Block examples */
 .imageContainer {
     float: left;
     clear: both;

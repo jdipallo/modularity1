@@ -107,8 +107,11 @@
 /* For Media Block Excercise */
 .imageContainer {
     float: left;
+    clear: both;
 }
 
 .contentContainer {
     margin-left: 65px;
+    overflow:auto;
+    display:block;
 }

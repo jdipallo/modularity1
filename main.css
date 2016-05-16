@@ -1,0 +1,71 @@
+/* ADD YOUR STYLES HERE */
+
+.dataTable {
+    width: 100%;
+}
+
+.dataTable tr {
+    height: 40px;
+}
+
+.dataTable td {
+    border-bottom: 1px solid gray;
+    width: 20px;
+}
+
+.dataTable th {
+    font-weight: bold;
+}
+
+.statsTable {
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+}
+
+.statsTable tr {
+    height: 90px;
+}
+.statsTable td {
+    width: 90px;
+    text-align: center;
+}
+
+.bigNumber {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.smallText {
+    font-size: 10px;
+    font-weight: bold;
+    color: lightgrey;
+}
+
+.barChartTable th {
+    display: block;
+    width: 90px;
+}
+.barChartTable div {
+    background-color: #629EDB;
+    height: 24px;
+    color: white;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.barChartTable td {
+    width: 100%;
+    padding-left: 10px;
+
+}
+
+.lightBoxGray {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    max-width: 277px;
+    height: 320px;
+}
